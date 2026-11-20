@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="128" y2="128" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#161b26"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="20" y1="20" x2="108" y2="108" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#bg)"/>
+  <rect x="6" y="6" width="116" height="116" rx="23" stroke="#f59e0b" stroke-opacity="0.35" stroke-width="2"/>
+  <path d="M32 68V58C32 40.3269 46.3269 26 64 26C81.6731 26 96 40.3269 96 58V68" stroke="url(#accent)" stroke-width="8" stroke-linecap="round"/>
+  <rect x="24" y="62" width="16" height="30" rx="8" fill="#fbbf24"/>
+  <rect x="88" y="62" width="16" height="30" rx="8" fill="#fb7185"/>
+  <path d="M50 75C50 67.268 56.268 61 64 61C71.732 61 78 67.268 78 75C78 82.732 71.732 89 64 89H55L47 95V83.5C48.9 81.1 50 78.2 50 75Z" fill="#e6edf3"/>
+  <circle cx="58" cy="75" r="2.8" fill="#0d1117"/>
+  <circle cx="64" cy="75" r="2.8" fill="#0d1117"/>
+  <circle cx="70" cy="75" r="2.8" fill="#0d1117"/>
+</svg>
